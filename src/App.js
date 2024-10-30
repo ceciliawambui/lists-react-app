@@ -9,7 +9,6 @@ function App() {
       <Tasks />
       <h1>Collaboration example</h1>
       <nav>
-        <h3>Alpha</h3>
         <link href="/">home</link>
         <link href="/">about</link>
       </nav>
