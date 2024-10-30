@@ -8,7 +8,7 @@ function App() {
       <Days/>
       <Tasks/>
       <h1>Collaboration example</h1>
-      <h2>Collab</h2>
+      <h2>new branch called change</h2>
       
     </div>
   );
